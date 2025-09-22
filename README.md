@@ -1,1 +1,4 @@
-some text
+```python
+  def main():
+    print("Hello")
+```
